@@ -1,0 +1,65 @@
+extended_attributes = null
+breath = 11
+yaw = 72.73
+name = sensei
+version = 1
+hp = 20
+position = (2660.73,1015,2724.96)
+pitch = 24.09
+PlayerArgsEnd
+List main 32
+Width 0
+Item bucket:bucket_water
+Item default:water_source
+Item bucket:bucket_river_water
+Item default:lava_source
+Item bucket:bucket_lava
+Item default:river_water_source
+Item default:cobble
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
